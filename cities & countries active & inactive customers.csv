@@ -1,0 +1,598 @@
+city_name,country_name,active_customers,inactive_customers,active_percentage
+Southend-on-Sea,"United Kingdom",0,1,0.00
+Daxian,China,0,1,0.00
+Kütahya,Turkey,0,1,0.00
+Pingxiang,China,0,1,0.00
+Xi´angfan,China,0,1,0.00
+Kumbakonam,India,0,1,0.00
+"Bat Yam",Israel,0,1,0.00
+Najafabad,Iran,0,1,0.00
+"Charlotte Amalie","Virgin Islands, U.S.",0,1,0.00
+Uluberia,India,0,1,0.00
+Coatzacoalcos,Mexico,0,1,0.00
+Kamyšin,"Russian Federation",0,1,0.00
+Amroha,India,0,1,0.00
+Wroclaw,Poland,0,1,0.00
+Székesfehérvár,Hungary,0,1,0.00
+Sasebo,Japan,1,0,100.00
+"San Bernardino","United States",1,0,100.00
+Athenai,Greece,1,0,100.00
+Myingyan,Myanmar,1,0,100.00
+Nantou,Taiwan,1,0,100.00
+Laredo,"United States",1,0,100.00
+Kragujevac,Yugoslavia,1,0,100.00
+Hamilton,"New Zealand",1,0,100.00
+Masqat,Oman,1,0,100.00
+Esfahan,Iran,1,0,100.00
+Sagamihara,Japan,1,0,100.00
+"Yamuna Nagar",India,1,0,100.00
+Osmaniye,Turkey,1,0,100.00
+"Citrus Heights","United States",1,0,100.00
+Bhopal,India,1,0,100.00
+Elista,"Russian Federation",1,0,100.00
+Kaduna,Nigeria,1,0,100.00
+Kimberley,"South Africa",1,0,100.00
+Mardan,Pakistan,1,0,100.00
+Tangail,Bangladesh,1,0,100.00
+Salé,Morocco,1,0,100.00
+Liepaja,Latvia,1,0,100.00
+Córdoba,Argentina,1,0,100.00
+Shikarpur,Pakistan,1,0,100.00
+"Città del Vaticano","Holy See (Vatican City State)",1,0,100.00
+Davao,Philippines,1,0,100.00
+"Munger (Monghyr)",India,1,0,100.00
+Shimonoseki,Japan,1,0,100.00
+Lungtan,Taiwan,1,0,100.00
+Kamarhati,India,1,0,100.00
+Jhansi,India,1,0,100.00
+Alessandria,Italy,1,0,100.00
+Kurashiki,Japan,1,0,100.00
+Toulouse,France,1,0,100.00
+Arak,Iran,1,0,100.00
+Nanyang,China,1,0,100.00
+Chisinau,Moldova,1,0,100.00
+"Vila Velha",Brazil,1,0,100.00
+Nador,Morocco,1,0,100.00
+Yerevan,Armenia,1,0,100.00
+"Pak Kret",Thailand,1,0,100.00
+Faaa,"French Polynesia",1,0,100.00
+Lipetsk,"Russian Federation",1,0,100.00
+Antofagasta,Chile,1,0,100.00
+Moscow,"Russian Federation",1,0,100.00
+"Juazeiro do Norte",Brazil,1,0,100.00
+Niznekamsk,"Russian Federation",1,0,100.00
+Jedda,"Saudi Arabia",1,0,100.00
+Omdurman,Sudan,1,0,100.00
+Fontana,"United States",1,0,100.00
+"A Coruña (La Coruña)",Spain,1,0,100.00
+Nagareyama,Japan,1,0,100.00
+Iwakuni,Japan,1,0,100.00
+Balašiha,"Russian Federation",1,0,100.00
+Papeete,"French Polynesia",1,0,100.00
+Vaduz,Liechtenstein,1,0,100.00
+Kuching,Malaysia,1,0,100.00
+Mysore,India,1,0,100.00
+Jaipur,India,1,0,100.00
+Basel,Switzerland,1,0,100.00
+"Saint Louis","United States",1,0,100.00
+Lincoln,"United States",1,0,100.00
+Cayenne,"French Guiana",1,0,100.00
+Malmö,Sweden,1,0,100.00
+Xi´angtan,China,1,0,100.00
+Shivapuri,India,1,0,100.00
+Béchar,Algeria,1,0,100.00
+al-Hawiya,"Saudi Arabia",1,0,100.00
+Baybay,Philippines,1,0,100.00
+Taguig,Philippines,1,0,100.00
+Chiayi,Taiwan,1,0,100.00
+"Rio Claro",Brazil,1,0,100.00
+Changhwa,Taiwan,1,0,100.00
+Pavlodar,Kazakstan,1,0,100.00
+Araçatuba,Brazil,1,0,100.00
+"Rae Bareli",India,1,0,100.00
+Kamakura,Japan,1,0,100.00
+Ife,Nigeria,1,0,100.00
+Mahajanga,Madagascar,1,0,100.00
+Simferopol,Ukraine,1,0,100.00
+Springs,"South Africa",1,0,100.00
+Atlixco,Mexico,1,0,100.00
+Bradford,"United Kingdom",1,0,100.00
+Songkhla,Thailand,1,0,100.00
+Sincelejo,Colombia,1,0,100.00
+Cheju,"South Korea",1,0,100.00
+"La Plata",Argentina,1,0,100.00
+Meixian,China,1,0,100.00
+"Bandar Seri Begawan",Brunei,1,0,100.00
+Goiânia,Brazil,1,0,100.00
+Zalantun,China,1,0,100.00
+Bislig,Philippines,1,0,100.00
+Pathankot,India,1,0,100.00
+"Augusta-Richmond County","United States",1,0,100.00
+Tete,Mozambique,1,0,100.00
+al-Ayn,"United Arab Emirates",1,0,100.00
+Kimchon,"South Korea",1,0,100.00
+Jelets,"Russian Federation",1,0,100.00
+Abha,"Saudi Arabia",1,0,100.00
+Ashdod,Israel,1,0,100.00
+Ilorin,Nigeria,1,0,100.00
+Toulon,France,1,0,100.00
+Funafuti,Tuvalu,1,0,100.00
+Ivanovo,"Russian Federation",1,0,100.00
+Merlo,Argentina,1,0,100.00
+Huixquilucan,Mexico,1,0,100.00
+Klerksdorp,"South Africa",1,0,100.00
+Enshi,China,1,0,100.00
+Caracas,Venezuela,1,0,100.00
+Lancaster,"United States",1,0,100.00
+Cumaná,Venezuela,1,0,100.00
+Duisburg,Germany,1,0,100.00
+Nezahualcóyotl,Mexico,1,0,100.00
+Pemalang,Indonesia,1,0,100.00
+Gandhinagar,India,1,0,100.00
+"Grand Prairie","United States",1,0,100.00
+"Shubra al-Khayma",Egypt,1,0,100.00
+"Dos Quebradas",Colombia,1,0,100.00
+Etawah,India,1,0,100.00
+Lima,Peru,1,0,100.00
+"Varanasi (Benares)",India,1,0,100.00
+Boksburg,"South Africa",1,0,100.00
+Poá,Brazil,1,0,100.00
+Smolensk,"Russian Federation",1,0,100.00
+Jastrzebie-Zdrój,Poland,1,0,100.00
+Liaocheng,China,1,0,100.00
+"Águas Lindas de Goiás",Brazil,1,0,100.00
+Mukatševe,Ukraine,1,0,100.00
+Botshabelo,"South Africa",1,0,100.00
+Torreón,Mexico,1,0,100.00
+Qalyub,Egypt,1,0,100.00
+Pune,India,1,0,100.00
+Hubli-Dharwad,India,1,0,100.00
+Apeldoorn,Netherlands,1,0,100.00
+Hohhot,China,1,0,100.00
+Touliu,Taiwan,1,0,100.00
+Clarksville,"United States",1,0,100.00
+Fukuyama,Japan,1,0,100.00
+Dundee,"United Kingdom",1,0,100.00
+Kilis,Turkey,1,0,100.00
+Molodetšno,Belarus,1,0,100.00
+Soshanguve,"South Africa",1,0,100.00
+"Sterling Heights","United States",1,0,100.00
+Urawa,Japan,1,0,100.00
+Saint-Denis,Réunion,1,0,100.00
+Brockton,"United States",1,0,100.00
+Hidalgo,Mexico,1,0,100.00
+Laiwu,China,1,0,100.00
+Nagaon,India,1,0,100.00
+Jakarta,Indonesia,1,0,100.00
+Yuncheng,China,1,0,100.00
+Bern,Switzerland,1,0,100.00
+Ondo,Nigeria,1,0,100.00
+Pyongyang,"North Korea",1,0,100.00
+Greensboro,"United States",1,0,100.00
+Linz,Austria,1,0,100.00
+Ljubertsy,"Russian Federation",1,0,100.00
+"Tel Aviv-Jaffa",Israel,1,0,100.00
+"Le Mans",France,1,0,100.00
+Kakamigahara,Japan,1,0,100.00
+Tarsus,Turkey,1,0,100.00
+Hami,China,1,0,100.00
+Lilongwe,Malawi,1,0,100.00
+Chandrapur,India,1,0,100.00
+Jinchang,China,1,0,100.00
+Udaipur,India,1,0,100.00
+Ipoh,Malaysia,1,0,100.00
+Batman,Turkey,1,0,100.00
+Graz,Austria,1,0,100.00
+"Ocumare del Tuy",Venezuela,1,0,100.00
+"Allappuzha (Alleppey)",India,1,0,100.00
+Skikda,Algeria,1,0,100.00
+Matamoros,Mexico,1,0,100.00
+"Santa Bárbara d´Oeste",Brazil,1,0,100.00
+Kirovo-Tšepetsk,"Russian Federation",1,0,100.00
+Pereira,Colombia,1,0,100.00
+Memphis,"United States",1,0,100.00
+Compton,"United States",1,0,100.00
+Luziânia,Brazil,1,0,100.00
+´s-Hertogenbosch,Netherlands,1,0,100.00
+"Shahr-e Kord",Iran,1,0,100.00
+Haldia,India,1,0,100.00
+Sumy,Ukraine,1,0,100.00
+Bayugan,Philippines,1,0,100.00
+Oshawa,Canada,1,0,100.00
+Tabora,Tanzania,1,0,100.00
+Novotšerkassk,"Russian Federation",1,0,100.00
+Firozabad,India,1,0,100.00
+Kisumu,Kenya,1,0,100.00
+Hino,Japan,1,0,100.00
+Siegen,Germany,1,0,100.00
+Mannheim,Germany,1,0,100.00
+Changzhou,China,1,0,100.00
+Ikerre,Nigeria,1,0,100.00
+Haiphong,Vietnam,1,0,100.00
+Ashgabat,Turkmenistan,1,0,100.00
+Witten,Germany,1,0,100.00
+Bhusawal,India,1,0,100.00
+Gorontalo,Indonesia,1,0,100.00
+Usak,Turkey,1,0,100.00
+"Ciudad del Este",Paraguay,1,0,100.00
+Blumenau,Brazil,1,0,100.00
+Nuuk,Greenland,1,0,100.00
+Balurghat,India,1,0,100.00
+Bhilwara,India,1,0,100.00
+Aden,Yemen,1,0,100.00
+Fuyu,China,1,0,100.00
+Bellevue,"United States",1,0,100.00
+Taizz,Yemen,1,0,100.00
+Sunnyvale,"United States",1,0,100.00
+"Stara Zagora",Bulgaria,1,0,100.00
+"Aparecida de Goiânia",Brazil,1,0,100.00
+Sambhal,India,1,0,100.00
+Kabul,Afghanistan,1,0,100.00
+"Vicente López",Argentina,1,0,100.00
+Zanzibar,Tanzania,1,0,100.00
+Syrakusa,Italy,1,0,100.00
+Jaroslavl,"Russian Federation",1,0,100.00
+"Mandi Bahauddin",Pakistan,1,0,100.00
+Jodhpur,India,1,0,100.00
+Ambattur,India,1,0,100.00
+Asunción,Paraguay,1,0,100.00
+Saarbrücken,Germany,1,0,100.00
+"Phnom Penh",Cambodia,1,0,100.00
+Anápolis,Brazil,1,0,100.00
+Botosani,Romania,1,0,100.00
+Uttarpara-Kotrung,India,1,0,100.00
+Zaria,Nigeria,1,0,100.00
+Idfu,Egypt,1,0,100.00
+"Jalib al-Shuyukh",Kuwait,1,0,100.00
+Buenaventura,Colombia,1,0,100.00
+Tanza,Philippines,1,0,100.00
+Naju,"South Korea",1,0,100.00
+Shimoga,India,1,0,100.00
+Ciomas,Indonesia,1,0,100.00
+Iwaki,Japan,1,0,100.00
+Qinhuangdao,China,1,0,100.00
+"San Miguel de Tucumán",Argentina,1,0,100.00
+Lapu-Lapu,Philippines,1,0,100.00
+Uijongbu,"South Korea",1,0,100.00
+Maringá,Brazil,1,0,100.00
+"Coacalco de Berriozábal",Mexico,1,0,100.00
+Tallahassee,"United States",1,0,100.00
+Tianjin,China,1,0,100.00
+Oyo,Nigeria,1,0,100.00
+Halle/Saale,Germany,1,0,100.00
+Miyakonojo,Japan,1,0,100.00
+"Poços de Caldas",Brazil,1,0,100.00
+Hagonoy,Philippines,1,0,100.00
+Monywa,Myanmar,1,0,100.00
+Beira,Mozambique,1,0,100.00
+"Santiago de los Caballeros","Dominican Republic",1,0,100.00
+Halisahar,India,1,0,100.00
+Datong,China,1,0,100.00
+Tuguegarao,Philippines,1,0,100.00
+Portoviejo,Ecuador,1,0,100.00
+Mandaluyong,Philippines,1,0,100.00
+Higashiosaka,Japan,1,0,100.00
+Olomouc,"Czech Republic",1,0,100.00
+Salzburg,Austria,1,0,100.00
+Lengshuijiang,China,1,0,100.00
+"Palghat (Palakkad)",India,1,0,100.00
+Salinas,"United States",1,0,100.00
+Kalisz,Poland,1,0,100.00
+Yantai,China,1,0,100.00
+Salamanca,Mexico,1,0,100.00
+Karnal,India,1,0,100.00
+Peoria,"United States",1,0,100.00
+Warren,"United States",1,0,100.00
+Ogbomosho,Nigeria,1,0,100.00
+Inegöl,Turkey,1,0,100.00
+Tabriz,Iran,1,0,100.00
+Owo,Nigeria,1,0,100.00
+Fuzhou,China,1,0,100.00
+Ponce,"Puerto Rico",1,0,100.00
+Korla,China,1,0,100.00
+"Benin City",Nigeria,1,0,100.00
+Otsu,Japan,1,0,100.00
+Effon-Alaiye,Nigeria,1,0,100.00
+Tambaram,India,1,0,100.00
+"Valle de Santiago",Mexico,1,0,100.00
+"Kowloon and New Kowloon","Hong Kong",1,0,100.00
+"Valle de la Pascua",Venezuela,1,0,100.00
+Roanoke,"United States",1,0,100.00
+Sharja,"United Arab Emirates",1,0,100.00
+"Donostia-San Sebastián",Spain,1,0,100.00
+Dayton,"United States",1,0,100.00
+Kolpino,"Russian Federation",1,0,100.00
+Patiala,India,1,0,100.00
+Ahmadnagar,India,1,0,100.00
+Oulu,Finland,1,0,100.00
+Hiroshima,Japan,1,0,100.00
+Parbhani,India,1,0,100.00
+Kaliningrad,"Russian Federation",1,0,100.00
+Tiefa,China,1,0,100.00
+Sanaa,Yemen,1,0,100.00
+Callao,Peru,1,0,100.00
+Arlington,"United States",1,0,100.00
+"Sungai Petani",Malaysia,1,0,100.00
+"Angra dos Reis",Brazil,1,0,100.00
+"Kansas City","United States",1,0,100.00
+Brescia,Italy,1,0,100.00
+Ibirité,Brazil,1,0,100.00
+Kursk,"Russian Federation",1,0,100.00
+Tabuk,"Saudi Arabia",1,0,100.00
+Ezhou,China,1,0,100.00
+Sorocaba,Brazil,1,0,100.00
+Miraj,India,1,0,100.00
+Tórshavn,"Faroe Islands",1,0,100.00
+Bydgoszcz,Poland,1,0,100.00
+"San Felipe del Progreso",Mexico,1,0,100.00
+Tafuna,"American Samoa",1,0,100.00
+Birgunj,Nepal,1,0,100.00
+"Bahía Blanca",Argentina,1,0,100.00
+Cuautla,Mexico,1,0,100.00
+Yuzhou,China,1,0,100.00
+Brasília,Brazil,1,0,100.00
+Kingstown,"Saint Vincent and the Grenadines",1,0,100.00
+Adana,Turkey,1,0,100.00
+Ciparay,Indonesia,1,0,100.00
+Jamalpur,Bangladesh,1,0,100.00
+"Santa Fé",Argentina,1,0,100.00
+Dhaka,Bangladesh,1,0,100.00
+Baku,Azerbaijan,1,0,100.00
+Sumqayit,Azerbaijan,1,0,100.00
+Sousse,Tunisia,1,0,100.00
+Rampur,India,1,0,100.00
+Onomichi,Japan,1,0,100.00
+Paarl,"South Africa",1,0,100.00
+Xinxiang,China,1,0,100.00
+Hanoi,Vietnam,1,0,100.00
+Ede,Netherlands,1,0,100.00
+"Boa Vista",Brazil,1,0,100.00
+Mexicali,Mexico,1,0,100.00
+Nuku´alofa,Tonga,1,0,100.00
+"San Lorenzo",Paraguay,1,0,100.00
+Maikop,"Russian Federation",1,0,100.00
+Daugavpils,Latvia,1,0,100.00
+Hsichuh,Taiwan,1,0,100.00
+Imus,Philippines,1,0,100.00
+Tšeboksary,"Russian Federation",1,0,100.00
+Zeleznogorsk,"Russian Federation",1,0,100.00
+Bamenda,Cameroon,1,0,100.00
+"Pachuca de Soto",Mexico,1,0,100.00
+"Santo André",Brazil,1,0,100.00
+Matsue,Japan,1,0,100.00
+Satna,India,1,0,100.00
+Bratislava,Slovakia,1,0,100.00
+Ranchi,India,1,0,100.00
+"Almirante Brown",Argentina,1,0,100.00
+Arecibo,"Puerto Rico",1,0,100.00
+Yaoundé,Cameroon,1,0,100.00
+Belém,Brazil,1,0,100.00
+Nyeri,Kenya,1,0,100.00
+Guadalajara,Mexico,1,0,100.00
+Okinawa,Japan,1,0,100.00
+Balikesir,Turkey,1,0,100.00
+Adoni,India,1,0,100.00
+Juárez,Mexico,1,0,100.00
+Gulbarga,India,1,0,100.00
+Cabuyao,Philippines,1,0,100.00
+Probolinggo,Indonesia,1,0,100.00
+Tanauan,Philippines,1,0,100.00
+"Vitória de Santo Antão",Brazil,1,0,100.00
+Mwene-Ditu,"Congo, The Democratic Republic of the",1,0,100.00
+Kurgan,"Russian Federation",1,0,100.00
+Kermanshah,Iran,1,0,100.00
+Shenzhen,China,1,0,100.00
+Bhavnagar,India,1,0,100.00
+Tychy,Poland,1,0,100.00
+"South Hill",Anguilla,1,0,100.00
+Manchester,"United States",1,0,100.00
+Namibe,Angola,1,0,100.00
+Huai´an,China,1,0,100.00
+Tama,Japan,1,0,100.00
+Kamjanets-Podilskyi,Ukraine,1,0,100.00
+Lubumbashi,"Congo, The Democratic Republic of the",1,0,100.00
+Cavite,Philippines,1,0,100.00
+Emeishan,China,1,0,100.00
+"Nakhon Sawan",Thailand,1,0,100.00
+Izumisano,Japan,1,0,100.00
+"Addis Abeba",Ethiopia,1,0,100.00
+Korolev,"Russian Federation",1,0,100.00
+Gijón,Spain,1,0,100.00
+al-Qadarif,Sudan,1,0,100.00
+Iwatsuki,Japan,1,0,100.00
+Atšinsk,"Russian Federation",1,0,100.00
+Bagé,Brazil,1,0,100.00
+Okara,Pakistan,1,0,100.00
+Dallas,"United States",1,0,100.00
+Koriyama,Japan,1,0,100.00
+Brest,France,1,0,100.00
+Valparai,India,1,0,100.00
+Omiya,Japan,1,0,100.00
+Tandil,Argentina,1,0,100.00
+Rustenburg,"South Africa",1,0,100.00
+Jaffna,"Sri Lanka",1,0,100.00
+"Deba Habe",Nigeria,1,0,100.00
+"Richmond Hill",Canada,1,0,100.00
+Cianjur,Indonesia,1,0,100.00
+Hoshiarpur,India,1,0,100.00
+"Berhampore (Baharampur)",India,1,0,100.00
+Allende,Mexico,1,0,100.00
+Amersfoort,Netherlands,1,0,100.00
+Dadu,Pakistan,1,0,100.00
+al-Qatif,"Saudi Arabia",1,0,100.00
+"San Felipe de Puerto Plata","Dominican Republic",1,0,100.00
+Katihar,India,1,0,100.00
+"El Monte","United States",1,0,100.00
+Pudukkottai,India,1,0,100.00
+Laohekou,China,1,0,100.00
+Sawhaj,Egypt,1,0,100.00
+Shanwei,China,1,0,100.00
+"San Juan Bautista Tuxtepec",Mexico,1,0,100.00
+"Purnea (Purnia)",India,1,0,100.00
+Guarujá,Brazil,1,0,100.00
+Syktyvkar,"Russian Federation",1,0,100.00
+Tsuyama,Japan,1,0,100.00
+Dzerzinsk,"Russian Federation",1,0,100.00
+Sucre,Bolivia,1,0,100.00
+Newcastle,"South Africa",1,0,100.00
+Naçala-Porto,Mozambique,1,0,100.00
+Ozamis,Philippines,1,0,100.00
+Junan,China,1,0,100.00
+Vancouver,Canada,1,0,100.00
+"La Romana","Dominican Republic",1,0,100.00
+Kitwe,Zambia,1,0,100.00
+Bergamo,Italy,1,0,100.00
+"Dhule (Dhulia)",India,1,0,100.00
+Batna,Algeria,1,0,100.00
+Tongliao,China,1,0,100.00
+"São Leopoldo",Brazil,1,0,100.00
+Tartu,Estonia,1,0,100.00
+Escobar,Argentina,1,0,100.00
+"Nabereznyje Tšelny","Russian Federation",1,0,100.00
+Erlangen,Germany,1,0,100.00
+Sirjan,Iran,1,0,100.00
+Surakarta,Indonesia,1,0,100.00
+"El Fuerte",Mexico,1,0,100.00
+"Abu Dhabi","United Arab Emirates",1,0,100.00
+Maracaíbo,Venezuela,1,0,100.00
+Uruapan,Mexico,1,0,100.00
+"El Alto",Bolivia,1,0,100.00
+Ziguinchor,Senegal,1,0,100.00
+Rockford,"United States",1,0,100.00
+Tegal,Indonesia,1,0,100.00
+Qomsheh,Iran,1,0,100.00
+Florencia,Colombia,1,0,100.00
+Gingoog,Philippines,1,0,100.00
+Usolje-Sibirskoje,"Russian Federation",1,0,100.00
+Halifax,Canada,1,0,100.00
+Rancagua,Chile,1,0,100.00
+Zapopan,Mexico,1,0,100.00
+Dongying,China,1,0,100.00
+Cuauhtémoc,Mexico,1,0,100.00
+Bijapur,India,1,0,100.00
+"Ourense (Orense)",Spain,1,0,100.00
+Hodeida,Yemen,1,0,100.00
+Johannesburg,"South Africa",1,0,100.00
+"Nam Dinh",Vietnam,1,0,100.00
+Lhokseumawe,Indonesia,1,0,100.00
+Emmen,Netherlands,1,0,100.00
+Šostka,Ukraine,1,0,100.00
+Gatineau,Canada,1,0,100.00
+Stockport,"United Kingdom",1,0,100.00
+Ashqelon,Israel,1,0,100.00
+Akron,"United States",1,0,100.00
+Gaziantep,Turkey,1,0,100.00
+Mwanza,Tanzania,1,0,100.00
+Denizli,Turkey,1,0,100.00
+Yinchuan,China,1,0,100.00
+Shaoguan,China,1,0,100.00
+Acuña,Mexico,1,0,100.00
+Pjatigorsk,"Russian Federation",1,0,100.00
+"La Paz",Mexico,1,0,100.00
+Okayama,Japan,1,0,100.00
+Sogamoso,Colombia,1,0,100.00
+"Mit Ghamr",Egypt,1,0,100.00
+Kanchrapara,India,1,0,100.00
+Sultanbeyli,Turkey,1,0,100.00
+Ríobamba,Ecuador,1,0,100.00
+Baiyin,China,1,0,100.00
+Rizhao,China,1,0,100.00
+York,"United Kingdom",1,0,100.00
+Salala,Oman,1,0,100.00
+Brindisi,Italy,1,0,100.00
+Madiun,Indonesia,1,0,100.00
+Lublin,Poland,1,0,100.00
+"Siliguri (Shiliguri)",India,1,0,100.00
+Ueda,Japan,1,0,100.00
+Joliet,"United States",1,0,100.00
+Talavera,Philippines,1,0,100.00
+Pontianak,Indonesia,1,0,100.00
+Eskisehir,Turkey,1,0,100.00
+Vijayawada,India,1,0,100.00
+Chapra,India,1,0,100.00
+Suihua,China,1,0,100.00
+Yangor,Nauru,1,0,100.00
+Zaoyang,China,1,0,100.00
+Coquimbo,Chile,1,0,100.00
+Battambang,Cambodia,1,0,100.00
+Chungho,Taiwan,1,0,100.00
+Sivas,Turkey,1,0,100.00
+Isesaki,Japan,1,0,100.00
+"Nha Trang",Vietnam,1,0,100.00
+Yingkou,China,1,0,100.00
+"Santa Rosa",Philippines,1,0,100.00
+Vinh,Vietnam,1,0,100.00
+Purwakarta,Indonesia,1,0,100.00
+Udine,Italy,1,0,100.00
+"Cape Coral","United States",1,0,100.00
+Mogiljov,Belarus,1,0,100.00
+Benguela,Angola,1,0,100.00
+Bhimavaram,India,1,0,100.00
+Ezeiza,Argentina,1,0,100.00
+Kuwana,Japan,1,0,100.00
+"Cam Ranh",Vietnam,1,0,100.00
+Binzhou,China,1,0,100.00
+NDjamna,Chad,1,0,100.00
+Tonghae,"South Korea",1,0,100.00
+Baicheng,China,1,0,100.00
+Valencia,Venezuela,1,0,100.00
+Ruse,Bulgaria,1,0,100.00
+Livorno,Italy,1,0,100.00
+"Pangkal Pinang",Indonesia,1,0,100.00
+Beni-Mellal,Morocco,1,0,100.00
+"São Bernardo do Campo",Brazil,1,0,100.00
+Konotop,Ukraine,1,0,100.00
+Sanya,China,1,0,100.00
+Kanazawa,Japan,1,0,100.00
+Tarlac,Philippines,1,0,100.00
+"Santiago de Compostela",Spain,1,0,100.00
+Zhoushan,China,1,0,100.00
+Alvorada,Brazil,1,0,100.00
+Haining,China,1,0,100.00
+"Novi Sad",Yugoslavia,1,0,100.00
+Rajkot,India,1,0,100.00
+Chatsworth,"South Africa",1,0,100.00
+Southport,"United Kingdom",1,0,100.00
+Vilnius,Lithuania,1,0,100.00
+Bilbays,Egypt,1,0,100.00
+Avellaneda,Argentina,1,0,100.00
+Garland,"United States",1,0,100.00
+Sokoto,Nigeria,1,0,100.00
+Bucuresti,Romania,1,0,100.00
+Xintai,China,1,0,100.00
+Huánuco,Peru,1,0,100.00
+Tokat,Turkey,1,0,100.00
+Serpuhov,"Russian Federation",1,0,100.00
+Barcelona,Venezuela,1,0,100.00
+Leshan,China,1,0,100.00
+Monclova,Mexico,1,0,100.00
+Plock,Poland,1,0,100.00
+Czestochowa,Poland,1,0,100.00
+Zhezqazghan,Kazakstan,1,0,100.00
+Akishima,Japan,1,0,100.00
+Cuernavaca,Mexico,1,0,100.00
+Fengshan,Taiwan,1,0,100.00
+Tanshui,Taiwan,1,0,100.00
+Carmen,Mexico,1,0,100.00
+Mosul,Iraq,1,0,100.00
+Iligan,Philippines,1,0,100.00
+"José Azueta",Mexico,1,0,100.00
+"Huejutla de Reyes",Mexico,1,0,100.00
+Southampton,"United Kingdom",1,0,100.00
+Banjul,Gambia,1,0,100.00
+Quilmes,Argentina,1,0,100.00
+Tsaotun,Taiwan,1,0,100.00
+Celaya,Mexico,1,0,100.00
+Weifang,China,1,0,100.00
+Loja,Ecuador,1,0,100.00
+al-Manama,Bahrain,1,0,100.00
+"Juiz de Fora",Brazil,1,0,100.00
+"Garden Grove","United States",1,0,100.00
+Jining,China,1,0,100.00
+Jinzhou,China,1,0,100.00
+Patras,Greece,1,0,100.00
+Sullana,Peru,1,0,100.00
+Lausanne,Switzerland,1,0,100.00
+Tieli,China,1,0,100.00
+London,"United Kingdom",2,0,100.00
+Aurora,"United States",2,0,100.00

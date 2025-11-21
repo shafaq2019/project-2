@@ -1,0 +1,17 @@
+category_name,total_revenue,total_rentals,avg_revenue_per_rental,revenue_rank
+Sports,5314.21,1179,4.51,1
+Sci-Fi,4756.98,1101,4.32,2
+Animation,4656.30,1166,3.99,3
+Drama,4587.39,1060,4.33,4
+Comedy,4383.58,941,4.66,5
+Action,4375.85,1112,3.94,6
+New,4351.62,940,4.63,7
+Games,4281.33,969,4.42,8
+Foreign,4270.67,1033,4.13,9
+Family,4226.07,1096,3.86,10
+Documentary,4217.52,1050,4.02,11
+Horror,3722.54,846,4.40,12
+Children,3655.55,945,3.87,13
+Classics,3639.59,939,3.88,14
+Travel,3549.64,837,4.24,15
+Music,3417.72,830,4.12,16

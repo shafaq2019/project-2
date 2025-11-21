@@ -1,0 +1,3 @@
+store_id,store_city,store_country,staff_id,staff_name,total_revenue_processed,total_payments_processed,avg_payment_value
+2,Woodridge,Australia,2,"Jon Stephens",33924.06,7990,4.25
+1,Lethbridge,Canada,1,"Mike Hillyer",33482.50,8054,4.16
